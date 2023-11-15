@@ -1,0 +1,1633 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-11-15 01:42-0300\n"
+"PO-Revision-Date: 2023-11-15 01:47-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: src\n"
+"X-Poedit-SearchPath-1: resources\n"
+"X-Poedit-SearchPathExcluded-0: resources/views/themes\n"
+
+#: resources/views/_components/data-table-buttons.php:3
+msgid "Filtrar"
+msgstr "Filtrar"
+
+#: resources/views/_components/data-table-buttons.php:6
+msgid "Limpar"
+msgstr "Limpar"
+
+#: resources/views/_components/data-table-filters.php:5
+msgid "Mostrar"
+msgstr "Mostrar"
+
+#: resources/views/_components/data-table-filters.php:13
+msgid "Linhas"
+msgstr "Linhas"
+
+#: resources/views/_components/data-table-filters.php:20
+msgid "Buscar por"
+msgstr "Buscar por"
+
+#: resources/views/_components/data-table.php:39
+msgid "Nenhum dado correspondente foi encontrado!"
+msgstr "Nenhum dado correspondente foi encontrado!"
+
+#: resources/views/_components/expired-session.php:7
+msgid "Sessão expirada, faça login"
+msgstr "Sessão expirada, faça login"
+
+#: resources/views/_components/expired-session.php:12
+#: resources/views/admin/users/save.php:41
+#: resources/views/auth/reset-password.php:26 resources/views/user/edit.php:61
+#: src/App/Controllers/Admin/UsersController.php:245
+msgid "Email"
+msgstr "Email"
+
+#: resources/views/_components/expired-session.php:14
+msgid "Informe seu email..."
+msgstr "Informe seu email..."
+
+#: resources/views/_components/expired-session.php:19
+#: resources/views/admin/users/save.php:101 resources/views/user/edit.php:97
+msgid "Senha"
+msgstr "Senha"
+
+#: resources/views/_components/expired-session.php:20
+msgid "Informe sua senha..."
+msgstr "Informe sua senha..."
+
+#: resources/views/_components/expired-session.php:26
+#: resources/views/auth/login.php:25 resources/views/auth/login.php:45
+#: src/Data/MenuData.php:86
+msgid "Entrar"
+msgstr "Entrar"
+
+#: resources/views/_components/expired-session.php:28
+#: resources/views/_components/media-library.php:135
+#: resources/views/admin/users/save.php:129 resources/views/error/index.php:11
+#: resources/views/user/championships/_components/save-modal.php:16
+#: resources/views/user/competitors/_components/save-modal.php:16
+#: resources/views/user/competitors/index.php:25
+#: resources/views/user/edit.php:124
+#: resources/views/user/games/_components/save-modal.php:16
+msgid "Voltar"
+msgstr "Voltar"
+
+#: resources/views/_components/media-library.php:7
+#: resources/views/_components/media-library.php:24
+msgid "Biblioteca de Mídia"
+msgstr "Biblioteca de Mídia"
+
+#: resources/views/_components/media-library.php:14
+msgid "Upload"
+msgstr "Upload"
+
+#: resources/views/_components/media-library.php:19
+msgid "Tirar Foto"
+msgstr "Tirar Foto"
+
+#: resources/views/_components/media-library.php:36
+msgid "Clique para selecionar ou"
+msgstr "Clique para selecionar ou"
+
+#: resources/views/_components/media-library.php:37
+msgid "arraste o(s) arquivo(s)"
+msgstr "arraste o(s) arquivo(s)"
+
+#: resources/views/_components/media-library.php:57
+msgid "Selecione a Câmera"
+msgstr "Selecione a Câmera"
+
+#: resources/views/_components/media-library.php:64
+msgid "Câmera Atual"
+msgstr "Câmera Atual"
+
+#: resources/views/_components/media-library.php:73
+msgid "Capturar"
+msgstr "Capturar"
+
+#: resources/views/_components/media-library.php:77
+msgid "Salvar Captura"
+msgstr "Salvar Captura"
+
+#: resources/views/_components/media-library.php:83
+msgid "Foto Capturada"
+msgstr "Foto Capturada"
+
+#: resources/views/_components/media-library.php:96
+msgid "Pesquisar..."
+msgstr "Pesquisar..."
+
+#: resources/views/_components/media-library.php:123
+msgid "Escolher"
+msgstr "Escolher"
+
+#: resources/views/_components/media-library.php:127
+msgid "Cancelar"
+msgstr "Cancelar"
+
+#: resources/views/_components/pagination.php:6
+#, php-format
+msgid "Mostrando %s à %s de %s resultado(s)"
+msgstr "Mostrando %s à %s de %s resultado(s)"
+
+#: resources/views/_components/pagination.php:19
+#: resources/views/_scripts/media-library.js.php:612
+#: resources/views/_scripts/media-library.js.php:615
+msgid "Anterior"
+msgstr "Anterior"
+
+#: resources/views/_components/pagination.php:46
+#: resources/views/_scripts/media-library.js.php:647
+#: resources/views/_scripts/media-library.js.php:650
+msgid "Próxima"
+msgstr "Próxima"
+
+#: resources/views/_components/tinymce.php:29
+#: resources/views/_components/tinymce.php:34
+msgid "Erro de HTTP: "
+msgstr "Erro de HTTP: "
+
+#: resources/views/_components/tinymce.php:41
+msgid "JSON Inválido: "
+msgstr "JSON Inválido: "
+
+#: resources/views/_components/tinymce.php:49
+msgid "O upload da imagem falhou! Código: "
+msgstr "O upload da imagem falhou! Código: "
+
+#: resources/views/_scripts/media-library.js.php:128
+#, php-format
+msgid "Tamanho máximo permitido: %sMB"
+msgstr "Tamanho máximo permitido: %sMB"
+
+#: resources/views/_scripts/media-library.js.php:194
+#, php-format
+msgid ""
+"A extensão do arquivo que você selecionou não é permitida aqui! Extensões "
+"permitidas: %s"
+msgstr ""
+"A extensão do arquivo que você selecionou não é permitida aqui! Extensões "
+"permitidas: %s"
+
+#: resources/views/_scripts/media-library.js.php:349
+#, php-format
+msgid "O arquivo que você tentou enviar é maior do que %sMB!"
+msgstr "O arquivo que você tentou enviar é maior do que %sMB!"
+
+#: resources/views/_scripts/media-library.js.php:394
+msgid "Lamentamos, mas houve uma falha na leitura do arquivo!"
+msgstr "Lamentamos, mas houve uma falha na leitura do arquivo!"
+
+#: resources/views/_scripts/media-library.js.php:415
+#, php-format
+msgid ""
+"A extensão do arquivo que você tentou enviar não é permitida aqui! Extensões "
+"permitidas: %s"
+msgstr ""
+"A extensão do arquivo que você tentou enviar não é permitida aqui! Extensões "
+"permitidas: %s"
+
+#: resources/views/admin/_scripts/index.js.php:49
+#: resources/views/admin/users/_scripts/index.js.php:12
+msgid "Deseja realmente excluir este usuário?"
+msgstr "Deseja realmente excluir este usuário?"
+
+#: resources/views/admin/index.php:2
+#, php-format
+msgid "Administrador | %s"
+msgstr "Administrador | %s"
+
+#: resources/views/admin/index.php:6
+msgid "Painel do Administrador"
+msgstr "Painel do Administrador"
+
+#: resources/views/admin/index.php:7
+msgid "Relatórios e gerenciamento do sistema"
+msgstr "Relatórios e gerenciamento do sistema"
+
+#: resources/views/admin/index.php:19
+msgid "Informações da Aplicação"
+msgstr "Informações da Aplicação"
+
+#: resources/views/admin/index.php:24
+#, php-format
+msgid "Versão: <strong>%s</strong>"
+msgstr "Versão: <strong>%s</strong>"
+
+#: resources/views/admin/index.php:41
+#, php-format
+msgid "%s do sistema"
+msgstr "%s do sistema"
+
+#: resources/views/admin/index.php:54
+#, php-format
+msgid "Ver %s"
+msgstr "Ver %s"
+
+#: resources/views/admin/index.php:74 resources/views/admin/users/index.php:17
+#: src/Data/MenuData.php:41 src/Data/MenuData.php:46
+msgid "Usuários"
+msgstr "Usuários"
+
+#: resources/views/admin/index.php:83 resources/views/admin/users/index.php:34
+msgid "Nível de Usuário"
+msgstr "Nível de Usuário"
+
+#: resources/views/admin/index.php:85 resources/views/admin/users/index.php:36
+msgid "Todos os Usuários"
+msgstr "Todos os Usuários"
+
+#: resources/views/admin/index.php:112
+msgid "Configurações do Sistema"
+msgstr "Configurações do Sistema"
+
+#: resources/views/admin/index.php:121
+msgid "Tema"
+msgstr "Tema"
+
+#: resources/views/admin/index.php:122
+msgid "Escolha o tema de cores do sistema."
+msgstr "Escolha o tema de cores do sistema."
+
+#: resources/views/admin/index.php:127
+msgid "Escolha o tema de cores do sistema..."
+msgstr "Escolha o tema de cores do sistema..."
+
+#: resources/views/admin/index.php:129
+msgid "Tema Claro"
+msgstr "Tema Claro"
+
+#: resources/views/admin/index.php:132
+msgid "Tema Escuro"
+msgstr "Tema Escuro"
+
+#: resources/views/admin/index.php:140
+msgid "Imagem de Fundo (Login)"
+msgstr "Imagem de Fundo (Login)"
+
+#: resources/views/admin/index.php:141
+msgid "Escolha a imagem que ficará de fundo na página de login."
+msgstr "Escolha a imagem que ficará de fundo na página de login."
+
+#: resources/views/admin/index.php:153
+msgid "Logo"
+msgstr "Logo"
+
+#: resources/views/admin/index.php:154
+msgid "Escolha a imagem que ficará como logo do sistema."
+msgstr "Escolha a imagem que ficará como logo do sistema."
+
+#: resources/views/admin/index.php:164
+msgid "Ícone (Tamanho Recomendado: 512 x 512)"
+msgstr "Ícone (Tamanho Recomendado: 512 x 512)"
+
+#: resources/views/admin/index.php:165
+msgid "Escolha a imagem que ficará como ícone do sistema."
+msgstr "Escolha a imagem que ficará como ícone do sistema."
+
+#: resources/views/admin/index.php:176
+msgid "Salvar Configurações"
+msgstr "Salvar Configurações"
+
+#: resources/views/admin/users/index.php:2
+#, php-format
+msgid "Usuários | %s"
+msgstr "Usuários | %s"
+
+#: resources/views/admin/users/index.php:6
+msgid "Lista de Usuários"
+msgstr "Lista de Usuários"
+
+#: resources/views/admin/users/index.php:7
+msgid "Segue abaixo a lista de usuários do sistema"
+msgstr "Segue abaixo a lista de usuários do sistema"
+
+#: resources/views/admin/users/index.php:23
+#: resources/views/admin/users/save.php:6
+#: resources/views/admin/users/save.php:127 src/Data/MenuData.php:51
+msgid "Cadastrar Usuário"
+msgstr "Cadastrar Usuário"
+
+#: resources/views/admin/users/save.php:2
+#, php-format
+msgid "Editar Usuário | %s"
+msgstr "Editar Usuário | %s"
+
+#: resources/views/admin/users/save.php:2
+#, php-format
+msgid "Cadastrar Usuário | %s"
+msgstr "Cadastrar Usuário | %s"
+
+#: resources/views/admin/users/save.php:6
+#, php-format
+msgid "Editar Usuário \"%s\""
+msgstr "Editar Usuário \"%s\""
+
+#: resources/views/admin/users/save.php:8
+msgid ""
+"Preencha os dados abaixo para alterar o usuário, e então clique em "
+"\"Atualizar Usuário\""
+msgstr ""
+"Preencha os dados abaixo para alterar o usuário, e então clique em "
+"\"Atualizar Usuário\""
+
+#: resources/views/admin/users/save.php:9
+msgid ""
+"Preencha os dados abaixo para cadastrar um usuário, e então clique em "
+"\"Cadastrar Usuário\""
+msgstr ""
+"Preencha os dados abaixo para cadastrar um usuário, e então clique em "
+"\"Cadastrar Usuário\""
+
+#: resources/views/admin/users/save.php:21 resources/views/user/edit.php:18
+msgid "Informações da Conta"
+msgstr "Informações da Conta"
+
+#: resources/views/admin/users/save.php:29
+#: resources/views/user/championships/_components/save-form.php:3
+#: resources/views/user/competitors/_components/save-form.php:3
+#: resources/views/user/edit.php:30
+#: resources/views/user/games/_components/save-form.php:3
+#: src/App/Controllers/Admin/UsersController.php:244
+#: src/App/Controllers/User/ChampionshipsController.php:243
+#: src/App/Controllers/User/CompetitorsController.php:214
+#: src/App/Controllers/User/GamesController.php:153
+msgid "Nome"
+msgstr "Nome"
+
+#: resources/views/admin/users/save.php:30
+msgid "Digite o nome e sobrenome."
+msgstr "Digite o nome e sobrenome."
+
+#: resources/views/admin/users/save.php:34 resources/views/user/edit.php:35
+msgid "Informe um nome..."
+msgstr "Informe um nome..."
+
+#: resources/views/admin/users/save.php:42
+msgid "Digite um email válido."
+msgstr "Digite um email válido."
+
+#: resources/views/admin/users/save.php:46 resources/views/user/edit.php:66
+msgid "Informe um email..."
+msgstr "Informe um email..."
+
+#: resources/views/admin/users/save.php:55
+msgid "Nível do Usuário"
+msgstr "Nível do Usuário"
+
+#: resources/views/admin/users/save.php:56
+msgid "Escolha o nível do usuário."
+msgstr "Escolha o nível do usuário."
+
+#: resources/views/admin/users/save.php:61
+#: resources/views/user/championships/_components/save-form.php:12
+msgid "Selecionar..."
+msgstr "Selecionar..."
+
+#: resources/views/admin/users/save.php:77 resources/views/user/edit.php:76
+msgid "Deseja alterar a senha?"
+msgstr "Deseja alterar a senha?"
+
+#: resources/views/admin/users/save.php:82 resources/views/user/edit.php:81
+msgid "Sim"
+msgstr "Sim"
+
+#: resources/views/admin/users/save.php:90 resources/views/user/edit.php:87
+msgid "Não"
+msgstr "Não"
+
+#: resources/views/admin/users/save.php:102
+msgid "Digite a nova senha de acesso à conta."
+msgstr "Digite a nova senha de acesso à conta."
+
+#: resources/views/admin/users/save.php:107 resources/views/user/edit.php:103
+msgid "Digite uma senha..."
+msgstr "Digite uma senha..."
+
+#: resources/views/admin/users/save.php:113 resources/views/user/edit.php:109
+msgid "Confirmar Senha"
+msgstr "Confirmar Senha"
+
+#: resources/views/admin/users/save.php:114
+msgid "Digite novamente a nova senha de acesso à conta."
+msgstr "Digite novamente a nova senha de acesso à conta."
+
+#: resources/views/admin/users/save.php:119 resources/views/user/edit.php:115
+msgid "Digite novamente a senha..."
+msgstr "Digite novamente a senha..."
+
+#: resources/views/admin/users/save.php:127
+msgid "Atualizar Usuário"
+msgstr "Atualizar Usuário"
+
+#: resources/views/auth/login.php:5
+#, php-format
+msgid "Entrar | %s"
+msgstr "Entrar | %s"
+
+#: resources/views/auth/login.php:29 resources/views/auth/reset-password.php:27
+#: resources/views/web/contact.php:62 resources/views/web/contact.php:63
+msgid "Digite seu email"
+msgstr "Digite seu email"
+
+#: resources/views/auth/login.php:37
+msgid "Digite sua senha"
+msgstr "Digite sua senha"
+
+#: resources/views/auth/login.php:49
+msgid "Esqueceu a senha?"
+msgstr "Esqueceu a senha?"
+
+#: resources/views/auth/reset-password.php:5
+#, php-format
+msgid "Redefinir Senha | %s"
+msgstr "Redefinir Senha | %s"
+
+#: resources/views/auth/reset-password.php:21
+#: resources/views/emails/reset-password.php:14
+#: src/App/Controllers/Auth/ResetPasswordController.php:30
+msgid "Redefinir Senha"
+msgstr "Redefinir Senha"
+
+#: resources/views/auth/reset-password.php:37
+#: resources/views/web/contact.php:88
+msgid "Enviar"
+msgstr "Enviar"
+
+#: resources/views/auth/reset-password.php:44
+msgid "Nova Senha"
+msgstr "Nova Senha"
+
+#: resources/views/auth/reset-password.php:45
+msgid "Digite sua nova senha"
+msgstr "Digite sua nova senha"
+
+#: resources/views/auth/reset-password.php:53
+msgid "Confirmar Nova Senha"
+msgstr "Confirmar Nova Senha"
+
+#: resources/views/auth/reset-password.php:56
+msgid "Digite novamente a nova senha"
+msgstr "Digite novamente a nova senha"
+
+#: resources/views/auth/reset-password.php:63
+msgid "Redefinir"
+msgstr "Redefinir"
+
+#: resources/views/emails/reset-password.php:15
+#, php-format
+msgid ""
+"Recebemos uma tentativa de recuperação de senha do site \"%s\" para este e-"
+"mail. \n"
+"        Caso não tenha solicitado, desconsidere esse e-mail. Caso contrário, "
+"clique no link de verificação abaixo:"
+msgstr ""
+"Recebemos uma tentativa de recuperação de senha do site \"%s\" para este e-"
+"mail. \n"
+"        Caso não tenha solicitado, desconsidere esse e-mail. Caso contrário, "
+"clique no link de verificação abaixo:"
+
+#: resources/views/emails/reset-password.php:21
+msgid "Clique aqui para redefinir a senha"
+msgstr "Clique aqui para redefinir a senha"
+
+#: resources/views/emails/user-register.php:14
+#, php-format
+msgid "Olá, %s!"
+msgstr "Olá, %s!"
+
+#: resources/views/emails/user-register.php:15
+msgid "Aqui estão os seus dados de cadastro:"
+msgstr "Aqui estão os seus dados de cadastro:"
+
+#: resources/views/emails/user-register.php:17
+msgid "Nome:"
+msgstr "Nome:"
+
+#: resources/views/emails/user-register.php:18
+msgid "Email:"
+msgstr "Email:"
+
+#: resources/views/emails/user-register.php:19
+msgid "Senha:"
+msgstr "Senha:"
+
+#: resources/views/user/championships/_components/clash-area.php:6
+#: resources/views/user/championships/_components/clash-area.php:28
+#: src/Models/Championship.php:355
+msgid "Vencedor"
+msgstr "Vencedor"
+
+#: resources/views/user/championships/_components/clash-area.php:17
+msgid "Encerrar"
+msgstr "Encerrar"
+
+#: resources/views/user/championships/_components/save-form.php:5
+msgid "Digite o nome do campeonato..."
+msgstr "Digite o nome do campeonato..."
+
+#: resources/views/user/championships/_components/save-form.php:10
+#: resources/views/user/competitors/_components/save-form.php:10
+#: src/App/Controllers/User/ChampionshipsController.php:244
+msgid "Jogo"
+msgstr "Jogo"
+
+#: resources/views/user/championships/_components/save-modal.php:6
+#: resources/views/user/championships/_scripts/index.js.php:70
+#: resources/views/user/championships/index.php:25
+msgid "Cadastrar Campeonato"
+msgstr "Cadastrar Campeonato"
+
+#: resources/views/user/championships/_components/save-modal.php:14
+#: resources/views/user/competitors/_components/save-modal.php:14
+#: resources/views/user/games/_components/save-modal.php:14
+msgid "Salvar"
+msgstr "Salvar"
+
+#: resources/views/user/championships/_components/winner-area.php:5
+msgid "Tocar Música"
+msgstr "Tocar Música"
+
+#: resources/views/user/championships/_scripts/index.js.php:17
+msgid "Deseja realmente excluir este campeonato?"
+msgstr "Deseja realmente excluir este campeonato?"
+
+#: resources/views/user/championships/_scripts/index.js.php:44
+#, php-format
+msgid "Editar Campeonato - %s"
+msgstr "Editar Campeonato - %s"
+
+#: resources/views/user/championships/brackets.php:2
+#, php-format
+msgid "%s - Chaveamentos | %s"
+msgstr "%s - Chaveamentos | %s"
+
+#: resources/views/user/championships/brackets.php:6
+#, php-format
+msgid "%s - Chaveamentos"
+msgstr "%s - Chaveamentos"
+
+#: resources/views/user/championships/brackets.php:7
+#, php-format
+msgid "Segue abaixo o chaveamento do campeonato \"%s\""
+msgstr "Segue abaixo o chaveamento do campeonato \"%s\""
+
+#: resources/views/user/championships/index.php:2
+#, php-format
+msgid "Campeonatos | %s"
+msgstr "Campeonatos | %s"
+
+#: resources/views/user/championships/index.php:6
+msgid "Lista de Campeonatos"
+msgstr "Lista de Campeonatos"
+
+#: resources/views/user/championships/index.php:7
+msgid "Segue abaixo a lista de campeonatos cadastrados no sistema"
+msgstr "Segue abaixo a lista de campeonatos cadastrados no sistema"
+
+#: resources/views/user/championships/index.php:17 src/Data/MenuData.php:62
+msgid "Campeonatos"
+msgstr "Campeonatos"
+
+#: resources/views/user/championships/single.php:2
+#, php-format
+msgid "%s | %s"
+msgstr "%s | %s"
+
+#: resources/views/user/championships/single.php:20
+#, php-format
+msgid "%s - Confronto Atual: %s"
+msgstr "%s - Confronto Atual: %s"
+
+#: resources/views/user/championships/single.php:22
+#: src/Models/Championship.php:195
+msgid "Aguardando"
+msgstr "Aguardando"
+
+#: resources/views/user/championships/single.php:26
+#, php-format
+msgid "%s - Grande Vencedor"
+msgstr "%s - Grande Vencedor"
+
+#: resources/views/user/championships/single.php:40
+msgid "Iniciar"
+msgstr "Iniciar"
+
+#: resources/views/user/competitors/_components/save-form.php:5
+msgid "Digite o nome do competidor..."
+msgstr "Digite o nome do competidor..."
+
+#: resources/views/user/competitors/_components/save-modal.php:6
+#: resources/views/user/competitors/_scripts/index.js.php:87
+#: resources/views/user/competitors/index.php:33
+msgid "Cadastrar Competidor"
+msgstr "Cadastrar Competidor"
+
+#: resources/views/user/competitors/_scripts/index.js.php:43
+msgid "Deseja realmente excluir este competidor?"
+msgstr "Deseja realmente excluir este competidor?"
+
+#: resources/views/user/competitors/_scripts/index.js.php:70
+#, php-format
+msgid "Editar Competidor - %s"
+msgstr "Editar Competidor - %s"
+
+#: resources/views/user/competitors/index.php:2
+#, php-format
+msgid "Competidores - %s | %s"
+msgstr "Competidores - %s | %s"
+
+#: resources/views/user/competitors/index.php:6
+#, php-format
+msgid "Lista de Competidores - %s"
+msgstr "Lista de Competidores - %s"
+
+#: resources/views/user/competitors/index.php:7
+#, php-format
+msgid "Segue abaixo a lista de competidores do campeonato \"%s\""
+msgstr "Segue abaixo a lista de competidores do campeonato \"%s\""
+
+#: resources/views/user/competitors/index.php:17
+msgid "Competidores"
+msgstr "Competidores"
+
+#: resources/views/user/edit.php:2
+#, php-format
+msgid "Editar Conta | %s"
+msgstr "Editar Conta | %s"
+
+#: resources/views/user/edit.php:6
+msgid "Editar Conta"
+msgstr "Editar Conta"
+
+#: resources/views/user/edit.php:7
+msgid "Edite os detalhes de sua conta logo abaixo"
+msgstr "Edite os detalhes de sua conta logo abaixo"
+
+#: resources/views/user/edit.php:20
+msgid ""
+"Preencha os campos abaixo para editar os dados de sua conta. Então, clique "
+"em \"Salvar\"."
+msgstr ""
+"Preencha os campos abaixo para editar os dados de sua conta. Então, clique "
+"em \"Salvar\"."
+
+#: resources/views/user/edit.php:31
+msgid "Digite o seu nome e sobrenome."
+msgstr "Digite o seu nome e sobrenome."
+
+#: resources/views/user/edit.php:42
+msgid "Apelido"
+msgstr "Apelido"
+
+#: resources/views/user/edit.php:43
+msgid "Digite um apelido seu."
+msgstr "Digite um apelido seu."
+
+#: resources/views/user/edit.php:51
+msgid "Informe um apelido..."
+msgstr "Informe um apelido..."
+
+#: resources/views/user/edit.php:62
+msgid "Digite um email válido seu."
+msgstr "Digite um email válido seu."
+
+#: resources/views/user/edit.php:98
+msgid "Digite a nova senha de acesso à sua conta."
+msgstr "Digite a nova senha de acesso à sua conta."
+
+#: resources/views/user/edit.php:110
+msgid "Digite novamente a nova senha de acesso à sua conta."
+msgstr "Digite novamente a nova senha de acesso à sua conta."
+
+#: resources/views/user/edit.php:122
+msgid "Atualizar"
+msgstr "Atualizar"
+
+#: resources/views/user/games/_components/save-form.php:5
+msgid "Digite o nome do jogo..."
+msgstr "Digite o nome do jogo..."
+
+#: resources/views/user/games/_components/save-modal.php:6
+#: resources/views/user/games/_scripts/index.js.php:61
+#: resources/views/user/games/index.php:25
+msgid "Cadastrar Jogo"
+msgstr "Cadastrar Jogo"
+
+#: resources/views/user/games/_scripts/index.js.php:17
+msgid "Deseja realmente excluir este jogo?"
+msgstr "Deseja realmente excluir este jogo?"
+
+#: resources/views/user/games/_scripts/index.js.php:44
+#, php-format
+msgid "Editar Jogo - %s"
+msgstr "Editar Jogo - %s"
+
+#: resources/views/user/games/index.php:2
+#, php-format
+msgid "Jogos | %s"
+msgstr "Jogos | %s"
+
+#: resources/views/user/games/index.php:6
+msgid "Lista de Jogos"
+msgstr "Lista de Jogos"
+
+#: resources/views/user/games/index.php:7
+msgid "Segue abaixo a lista de jogos cadastrados no sistema"
+msgstr "Segue abaixo a lista de jogos cadastrados no sistema"
+
+#: resources/views/user/games/index.php:17 src/Data/MenuData.php:57
+msgid "Jogos"
+msgstr "Jogos"
+
+#: resources/views/user/index.php:2
+#, php-format
+msgid "Painel do Usuário | %s"
+msgstr "Painel do Usuário | %s"
+
+#: resources/views/user/index.php:6
+msgid "Painel do Usuário"
+msgstr "Painel do Usuário"
+
+#: resources/views/user/index.php:7
+msgid "Informações sobre sua atividade no sistema"
+msgstr "Informações sobre sua atividade no sistema"
+
+#: resources/views/web/contact.php:2
+#, php-format
+msgid "Contato | %s"
+msgstr "Contato | %s"
+
+#: resources/views/web/contact.php:8 src/Data/MenuData.php:23
+msgid "Contato"
+msgstr "Contato"
+
+#: resources/views/web/contact.php:12
+msgid ""
+"Para entrar em contato conosco para maiores esclarecimentos, preencha o "
+"formulário abaixo com seu \n"
+"                nome, email, assunto e mensagem e clique em \"Enviar\". Seu "
+"feedback é altamente apreciado."
+msgstr ""
+"Para entrar em contato conosco para maiores esclarecimentos, preencha o "
+"formulário abaixo com seu \n"
+"                nome, email, assunto e mensagem e clique em \"Enviar\". Seu "
+"feedback é altamente apreciado."
+
+#: resources/views/web/contact.php:24
+msgid "Entre em Contato"
+msgstr "Entre em Contato"
+
+#: resources/views/web/contact.php:35 resources/views/web/contact.php:36
+msgid "Qual é o assunto?"
+msgstr "Qual é o assunto?"
+
+#: resources/views/web/contact.php:48 resources/views/web/contact.php:49
+msgid "Digite seu nome"
+msgstr "Digite seu nome"
+
+#: resources/views/web/contact.php:76 resources/views/web/contact.php:77
+msgid "Digite sua mensagem"
+msgstr "Digite sua mensagem"
+
+#: resources/views/web/contact.php:97
+msgid "Envie-nos sua dúvida a qualquer hora!"
+msgstr "Envie-nos sua dúvida a qualquer hora!"
+
+#: src/App/Controllers/Admin/AdminController.php:52
+msgid "Configurações atualizadas com sucesso!"
+msgstr "Configurações atualizadas com sucesso!"
+
+#: src/App/Controllers/Admin/TemplateController.php:28
+#: src/App/Controllers/User/TemplateController.php:28
+#: src/App/Controllers/Web/TemplateController.php:26
+msgid "Aguarde, carregando..."
+msgstr "Aguarde, carregando..."
+
+#: src/App/Controllers/Admin/TemplateController.php:40
+#: src/App/Controllers/User/TemplateController.php:40
+#: src/App/Controllers/Web/TemplateController.php:34
+msgid "Linguagens"
+msgstr "Linguagens"
+
+#: src/App/Controllers/Admin/TemplateController.php:43
+#: src/App/Controllers/User/TemplateController.php:43
+#: src/App/Controllers/Web/TemplateController.php:37
+msgid "Português"
+msgstr "Português"
+
+#: src/App/Controllers/Admin/UsersController.php:57
+msgid "Você se Registrou com Sucesso!"
+msgstr "Você se Registrou com Sucesso!"
+
+#: src/App/Controllers/Admin/UsersController.php:70
+#, php-format
+msgid ""
+"O usuário \"%s\" foi cadastrado com sucesso! Porém não foi possível enviar "
+"uma notificação no email dele."
+msgstr ""
+"O usuário \"%s\" foi cadastrado com sucesso! Porém não foi possível enviar "
+"uma notificação no email dele."
+
+#: src/App/Controllers/Admin/UsersController.php:77
+#, php-format
+msgid "O usuário \"%s\" foi criado com sucesso!"
+msgstr "O usuário \"%s\" foi criado com sucesso!"
+
+#: src/App/Controllers/Admin/UsersController.php:89
+#: src/App/Controllers/Admin/UsersController.php:102
+#: src/App/Controllers/Admin/UsersController.php:146
+msgid "Nenhum usuário foi encontrado!"
+msgstr "Nenhum usuário foi encontrado!"
+
+#: src/App/Controllers/Admin/UsersController.php:139
+#, php-format
+msgid "Os dados do usuário \"%s\" foram alterados com sucesso!"
+msgstr "Os dados do usuário \"%s\" foram alterados com sucesso!"
+
+#: src/App/Controllers/Admin/UsersController.php:149
+msgid "Não foi possível excluir o usuário!"
+msgstr "Não foi possível excluir o usuário!"
+
+#: src/App/Controllers/Admin/UsersController.php:155
+#, php-format
+msgid "O usuário \"%s\" foi excluído com sucesso."
+msgstr "O usuário \"%s\" foi excluído com sucesso."
+
+#: src/App/Controllers/Admin/UsersController.php:217
+#: src/App/Controllers/Admin/UsersController.php:220
+#: src/App/Controllers/Admin/UsersController.php:242
+#: src/App/Controllers/User/ChampionshipsController.php:194
+#: src/App/Controllers/User/ChampionshipsController.php:197
+#: src/App/Controllers/User/ChampionshipsController.php:242
+#: src/App/Controllers/User/CompetitorsController.php:187
+#: src/App/Controllers/User/CompetitorsController.php:190
+#: src/App/Controllers/User/CompetitorsController.php:213
+#: src/App/Controllers/User/GamesController.php:126
+#: src/App/Controllers/User/GamesController.php:129
+#: src/App/Controllers/User/GamesController.php:152
+msgid "Ações"
+msgstr "Ações"
+
+#: src/App/Controllers/Admin/UsersController.php:223
+msgid "Editar Usuário"
+msgstr "Editar Usuário"
+
+#: src/App/Controllers/Admin/UsersController.php:229
+msgid "Excluir Usuário"
+msgstr "Excluir Usuário"
+
+#: src/App/Controllers/Admin/UsersController.php:243
+msgid "ID"
+msgstr "ID"
+
+#: src/App/Controllers/Admin/UsersController.php:246
+#: src/App/Controllers/User/ChampionshipsController.php:246
+#: src/App/Controllers/User/CompetitorsController.php:215
+#: src/App/Controllers/User/GamesController.php:154
+msgid "Criado em"
+msgstr "Criado em"
+
+#: src/App/Controllers/Auth/AuthController.php:28
+#, php-format
+msgid "Seja bem-vindo(a), %s!"
+msgstr "Seja bem-vindo(a), %s!"
+
+#: src/App/Controllers/Auth/AuthController.php:39
+#: src/App/Controllers/Auth/AuthController.php:62
+msgid "Usuário e/ou senha inválidos!"
+msgstr "Usuário e/ou senha inválidos!"
+
+#: src/App/Controllers/Auth/ResetPasswordController.php:41
+#, php-format
+msgid "Um email foi enviado para %s. Verifique para poder redefinir sua senha."
+msgstr ""
+"Um email foi enviado para %s. Verifique para poder redefinir sua senha."
+
+#: src/App/Controllers/Auth/ResetPasswordController.php:66
+msgid "A chave de verificação é inválida!"
+msgstr "A chave de verificação é inválida!"
+
+#: src/App/Controllers/Auth/ResetPasswordController.php:81
+msgid "A senha foi redefinida com sucesso!"
+msgstr "A senha foi redefinida com sucesso!"
+
+#: src/App/Controllers/ErrorController.php:13
+msgid "Lamentamos, mas ocorreu um erro inesperado. Clique abaixo para voltar."
+msgstr "Lamentamos, mas ocorreu um erro inesperado. Clique abaixo para voltar."
+
+#: src/App/Controllers/MediaLibraryController.php:55
+msgid "Nenhum arquivo foi escolhido!"
+msgstr "Nenhum arquivo foi escolhido!"
+
+#: src/App/Controllers/MediaLibraryController.php:81
+msgid "Lamentamos, mas parece que ocorreu um erro no upload do seu arquivo."
+msgstr "Lamentamos, mas parece que ocorreu um erro no upload do seu arquivo."
+
+#: src/App/Controllers/MediaLibraryController.php:85
+msgid "O arquivo foi carregado com sucesso!"
+msgstr "O arquivo foi carregado com sucesso!"
+
+#: src/App/Controllers/MediaLibraryController.php:91
+msgid "Nenhum nome de arquivo foi declarado!"
+msgstr "Nenhum nome de arquivo foi declarado!"
+
+#: src/App/Controllers/MediaLibraryController.php:104
+msgid "O arquivo foi excluído com sucesso."
+msgstr "O arquivo foi excluído com sucesso."
+
+#: src/App/Controllers/User/ChampionshipsController.php:19
+#: src/App/Controllers/User/ChampionshipsController.php:39
+#: src/App/Controllers/User/ChampionshipsController.php:73
+#: src/App/Controllers/User/CompetitorsController.php:20
+msgid "Nenhum campeonato foi encontrado!"
+msgstr "Nenhum campeonato foi encontrado!"
+
+#: src/App/Controllers/User/ChampionshipsController.php:117
+#, php-format
+msgid "O campeonato \"%s\" foi cadastrado com sucesso!"
+msgstr "O campeonato \"%s\" foi cadastrado com sucesso!"
+
+#: src/App/Controllers/User/ChampionshipsController.php:138
+#, php-format
+msgid "Os dados do campeonato \"%s\" foram alterados com sucesso!"
+msgstr "Os dados do campeonato \"%s\" foram alterados com sucesso!"
+
+#: src/App/Controllers/User/ChampionshipsController.php:146
+msgid "Não foi possível excluir o campeonato!"
+msgstr "Não foi possível excluir o campeonato!"
+
+#: src/App/Controllers/User/ChampionshipsController.php:152
+#, php-format
+msgid "O campeonato \"%s\" foi excluído com sucesso."
+msgstr "O campeonato \"%s\" foi excluído com sucesso."
+
+#: src/App/Controllers/User/ChampionshipsController.php:200
+msgid "Ver Competidores"
+msgstr "Ver Competidores"
+
+#: src/App/Controllers/User/ChampionshipsController.php:206
+msgid "Gerar Confrontos"
+msgstr "Gerar Confrontos"
+
+#: src/App/Controllers/User/ChampionshipsController.php:211
+msgid "Ver Chaveamentos"
+msgstr "Ver Chaveamentos"
+
+#: src/App/Controllers/User/ChampionshipsController.php:216
+msgid "Área do Campeonato"
+msgstr "Área do Campeonato"
+
+#: src/App/Controllers/User/ChampionshipsController.php:223
+msgid "Editar Campeonato"
+msgstr "Editar Campeonato"
+
+#: src/App/Controllers/User/ChampionshipsController.php:229
+msgid "Excluir Campeonato"
+msgstr "Excluir Campeonato"
+
+#: src/App/Controllers/User/ChampionshipsController.php:245
+msgid "Status"
+msgstr "Status"
+
+#: src/App/Controllers/User/ChampionshipsController.php:247
+#: src/App/Controllers/User/CompetitorsController.php:216
+#: src/App/Controllers/User/GamesController.php:155
+msgid "Modificado em"
+msgstr "Modificado em"
+
+#: src/App/Controllers/User/ChampionshipsController.php:283
+#, php-format
+msgid "Os confrontos do campeonato \"%s\" foram gerados com sucesso!"
+msgstr "Os confrontos do campeonato \"%s\" foram gerados com sucesso!"
+
+#: src/App/Controllers/User/ChampionshipsController.php:293
+#: src/Models/Championship.php:226
+msgid "Não é possível gerar confrontos para um campeonato sem competidores!"
+msgstr "Não é possível gerar confrontos para um campeonato sem competidores!"
+
+#: src/App/Controllers/User/ChampionshipsController.php:303
+#, php-format
+msgid "O campeonato \"%s\" foi iniciado com sucesso!"
+msgstr "O campeonato \"%s\" foi iniciado com sucesso!"
+
+#: src/App/Controllers/User/ChampionshipsController.php:311
+msgid "Nenhum confornto foi encontrado!"
+msgstr "Nenhum confornto foi encontrado!"
+
+#: src/App/Controllers/User/ChampionshipsController.php:314
+msgid "Este confronto já foi encerrado ou ainda não foi definido!"
+msgstr "Este confronto já foi encerrado ou ainda não foi definido!"
+
+#: src/App/Controllers/User/ChampionshipsController.php:320
+msgid "Um vencedor precisa ser declarado!"
+msgstr "Um vencedor precisa ser declarado!"
+
+#: src/App/Controllers/User/ChampionshipsController.php:349
+#, php-format
+msgid "O vencedor do confronto \"%s\" é \"%s\"!"
+msgstr "O vencedor do confronto \"%s\" é \"%s\"!"
+
+#: src/App/Controllers/User/CompetitorsController.php:30
+#: src/App/Controllers/User/CompetitorsController.php:45
+msgid "Nenhum competidor foi encontrado!"
+msgstr "Nenhum competidor foi encontrado!"
+
+#: src/App/Controllers/User/CompetitorsController.php:33
+msgid "Este competidor não pertence à este campeonato!"
+msgstr "Este competidor não pertence à este campeonato!"
+
+#: src/App/Controllers/User/CompetitorsController.php:89
+#, php-format
+msgid "O competidor \"%s\" foi cadastrado com sucesso!"
+msgstr "O competidor \"%s\" foi cadastrado com sucesso!"
+
+#: src/App/Controllers/User/CompetitorsController.php:110
+#, php-format
+msgid "Os dados do competidor \"%s\" foram alterados com sucesso!"
+msgstr "Os dados do competidor \"%s\" foram alterados com sucesso!"
+
+#: src/App/Controllers/User/CompetitorsController.php:119
+msgid "Não foi possível excluir o competidor!"
+msgstr "Não foi possível excluir o competidor!"
+
+#: src/App/Controllers/User/CompetitorsController.php:125
+#, php-format
+msgid "O competidor \"%s\" foi excluído com sucesso."
+msgstr "O competidor \"%s\" foi excluído com sucesso."
+
+#: src/App/Controllers/User/CompetitorsController.php:194
+msgid "Editar Competidor"
+msgstr "Editar Competidor"
+
+#: src/App/Controllers/User/CompetitorsController.php:200
+msgid "Excluir Competidor"
+msgstr "Excluir Competidor"
+
+#: src/App/Controllers/User/EditController.php:55
+msgid "Seus dados foram atualizados com sucesso!"
+msgstr "Seus dados foram atualizados com sucesso!"
+
+#: src/App/Controllers/User/GamesController.php:17
+msgid "Nenhum jogo foi encontrado!"
+msgstr "Nenhum jogo foi encontrado!"
+
+#: src/App/Controllers/User/GamesController.php:58
+#, php-format
+msgid "O jogo \"%s\" foi cadastrado com sucesso!"
+msgstr "O jogo \"%s\" foi cadastrado com sucesso!"
+
+#: src/App/Controllers/User/GamesController.php:74
+#, php-format
+msgid "Os dados do jogo \"%s\" foram alterados com sucesso!"
+msgstr "Os dados do jogo \"%s\" foram alterados com sucesso!"
+
+#: src/App/Controllers/User/GamesController.php:82
+msgid "Não foi possível excluir o jogo!"
+msgstr "Não foi possível excluir o jogo!"
+
+#: src/App/Controllers/User/GamesController.php:88
+#, php-format
+msgid "O jogo \"%s\" foi excluído com sucesso."
+msgstr "O jogo \"%s\" foi excluído com sucesso."
+
+#: src/App/Controllers/User/GamesController.php:133
+msgid "Editar Jogo"
+msgstr "Editar Jogo"
+
+#: src/App/Controllers/User/GamesController.php:139
+msgid "Excluir Jogo"
+msgstr "Excluir Jogo"
+
+#: src/App/Controllers/Web/ContactController.php:24
+msgid "Sua mensagem foi enviada com sucesso!"
+msgstr "Sua mensagem foi enviada com sucesso!"
+
+#: src/App/Middlewares/AdminMiddleware.php:13
+msgid ""
+"Você precisa estar autenticado como administrador para acessar essa área!"
+msgstr ""
+"Você precisa estar autenticado como administrador para acessar essa área!"
+
+#: src/App/Middlewares/UserMiddleware.php:12
+msgid "Você precisa estar autenticado para acessar essa área!"
+msgstr "Você precisa estar autenticado para acessar essa área!"
+
+#: src/Data/MenuData.php:18
+msgid "Início"
+msgstr "Início"
+
+#: src/Data/MenuData.php:33
+msgid "Painéis"
+msgstr "Painéis"
+
+#: src/Data/MenuData.php:38 src/Data/MenuData.php:72
+msgid "Painel Principal"
+msgstr "Painel Principal"
+
+#: src/Data/MenuData.php:75
+msgid "Editar meus Dados"
+msgstr "Editar meus Dados"
+
+#: src/Data/MenuData.php:78
+msgid "Voltar ao Início"
+msgstr "Voltar ao Início"
+
+#: src/Data/MenuData.php:81
+msgid "Sair"
+msgstr "Sair"
+
+#: src/Models/Championship.php:48 src/Models/Clash.php:51
+#: src/Models/Competitor.php:40 src/Models/Game.php:37
+msgid "O usuário é obrigatório!"
+msgstr "O usuário é obrigatório!"
+
+#: src/Models/Championship.php:51
+msgid "O jogo é obrigatório!"
+msgstr "O jogo é obrigatório!"
+
+#: src/Models/Championship.php:54 src/Models/Clash.php:63
+msgid "O status é obrigatório!"
+msgstr "O status é obrigatório!"
+
+#: src/Models/Championship.php:55 src/Models/Clash.php:64
+msgid "O status é inválido!"
+msgstr "O status é inválido!"
+
+#: src/Models/Championship.php:58 src/Models/Competitor.php:46
+#: src/Models/ContactForm.php:19 src/Models/Game.php:40 src/Models/User.php:57
+#: src/Models/UserForm.php:25
+msgid "O nome é obrigatório!"
+msgstr "O nome é obrigatório!"
+
+#: src/Models/Championship.php:59 src/Models/Competitor.php:47
+#: src/Models/Game.php:41 src/Models/User.php:58 src/Models/UserForm.php:26
+#, php-format
+msgid "O nome deve conter no máximo %s caractéres!"
+msgstr "O nome deve conter no máximo %s caractéres!"
+
+#: src/Models/Championship.php:173
+msgid "Você não pode excluir um campeonato vinculado à um competidor!"
+msgstr "Você não pode excluir um campeonato vinculado à um competidor!"
+
+#: src/Models/Championship.php:176
+msgid "Você não pode excluir um campeonato vinculado à um confronto!"
+msgstr "Você não pode excluir um campeonato vinculado à um confronto!"
+
+#: src/Models/Championship.php:196
+msgid "Em Andamento"
+msgstr "Em Andamento"
+
+#: src/Models/Championship.php:197 src/Models/Clash.php:203
+msgid "Finalizado"
+msgstr "Finalizado"
+
+#: src/Models/Championship.php:223
+msgid ""
+"Não é possível gerar confrontos para um campeonato que não está em espera!"
+msgstr ""
+"Não é possível gerar confrontos para um campeonato que não está em espera!"
+
+#: src/Models/Championship.php:234
+msgid "O número de competidores precisa ser potência de 2!"
+msgstr "O número de competidores precisa ser potência de 2!"
+
+#: src/Models/Championship.php:321 src/Models/Championship.php:325
+#: src/Models/Championship.php:333
+msgid "A Definir"
+msgstr "A Definir"
+
+#: src/Models/Championship.php:341 src/Models/Clash.php:230
+msgid "Grande Final"
+msgstr "Grande Final"
+
+#: src/Models/Championship.php:343 src/Models/Clash.php:232
+msgid "Semifinais"
+msgstr "Semifinais"
+
+#: src/Models/Championship.php:345
+msgid "Quartas de Final"
+msgstr "Quartas de Final"
+
+#: src/Models/Championship.php:347
+msgid "Oitavas de Final"
+msgstr "Oitavas de Final"
+
+#: src/Models/Championship.php:349
+#, php-format
+msgid "%sª de Final"
+msgstr "%sª de Final"
+
+#: src/Models/Clash.php:54 src/Models/Competitor.php:43
+msgid "O campeonato é obrigatório!"
+msgstr "O campeonato é obrigatório!"
+
+#: src/Models/Clash.php:57
+msgid "O nível do confronto é obrigatório!"
+msgstr "O nível do confronto é obrigatório!"
+
+#: src/Models/Clash.php:60
+msgid "A posição do confronto é obrigatória!"
+msgstr "A posição do confronto é obrigatória!"
+
+#: src/Models/Clash.php:68
+msgid "O primeiro competidor é obrigatório!"
+msgstr "O primeiro competidor é obrigatório!"
+
+#: src/Models/Clash.php:71
+msgid "O segundo competidor é obrigatório!"
+msgstr "O segundo competidor é obrigatório!"
+
+#: src/Models/Clash.php:75
+msgid "O vencedor é obrigatório!"
+msgstr "O vencedor é obrigatório!"
+
+#: src/Models/Clash.php:201
+msgid "Indefinido"
+msgstr "Indefinido"
+
+#: src/Models/Clash.php:202
+msgid "Pronto"
+msgstr "Pronto"
+
+#: src/Models/Clash.php:234
+msgid "Quartas de final"
+msgstr "Quartas de final"
+
+#: src/Models/Clash.php:236
+msgid "Oitavas de final"
+msgstr "Oitavas de final"
+
+#: src/Models/Clash.php:238
+#, php-format
+msgid "%sª de final"
+msgstr "%sª de final"
+
+#: src/Models/Clash.php:242
+#, php-format
+msgid "%s° Confronto"
+msgstr "%s° Confronto"
+
+#: src/Models/Competitor.php:53
+msgid "O arquivo escolhido não é uma imagem válida!"
+msgstr "O arquivo escolhido não é uma imagem válida!"
+
+#: src/Models/Competitor.php:70 src/Models/Competitor.php:73
+msgid "Você não pode excluir um competidor vinculado à um confronto!"
+msgstr "Você não pode excluir um competidor vinculado à um confronto!"
+
+#: src/Models/Config.php:45 src/Models/UserMeta.php:39
+msgid "O metadado é obrigatório!"
+msgstr "O metadado é obrigatório!"
+
+#: src/Models/Config.php:46 src/Models/UserMeta.php:40
+#, php-format
+msgid "O metadado deve conter no máximo %s caractéres!"
+msgstr "O metadado deve conter no máximo %s caractéres!"
+
+#: src/Models/Config.php:53
+msgid "A imagem de fundo do login é obrigatória!"
+msgstr "A imagem de fundo do login é obrigatória!"
+
+#: src/Models/Config.php:55
+msgid "A imagem de fundo não é uma imagem válida!"
+msgstr "A imagem de fundo não é uma imagem válida!"
+
+#: src/Models/Config.php:59
+msgid "O logo é obrigatório!"
+msgstr "O logo é obrigatório!"
+
+#: src/Models/Config.php:61
+msgid "O logo não é uma imagem válida!"
+msgstr "O logo não é uma imagem válida!"
+
+#: src/Models/Config.php:65
+msgid "O ícone é obrigatório!"
+msgstr "O ícone é obrigatório!"
+
+#: src/Models/Config.php:67
+msgid "O ícone não é uma imagem válida!"
+msgstr "O ícone não é uma imagem válida!"
+
+#: src/Models/Config.php:71
+msgid "O tema é obrigatório!"
+msgstr "O tema é obrigatório!"
+
+#: src/Models/Config.php:73
+msgid "O tema é inválido!"
+msgstr "O tema é inválido!"
+
+#: src/Models/ContactForm.php:20
+#, php-format
+msgid "O nome precisa ter no máximo %s caractéres!"
+msgstr "O nome precisa ter no máximo %s caractéres!"
+
+#: src/Models/ContactForm.php:23 src/Models/ForgotPasswordForm.php:17
+#: src/Models/LoginForm.php:17 src/Models/User.php:61
+#: src/Models/UserForm.php:29
+msgid "O email é obrigatório!"
+msgstr "O email é obrigatório!"
+
+#: src/Models/ContactForm.php:24 src/Models/ForgotPasswordForm.php:18
+#: src/Models/LoginForm.php:18 src/Models/User.php:62
+#: src/Models/UserForm.php:30
+msgid "O email é inválido!"
+msgstr "O email é inválido!"
+
+#: src/Models/ContactForm.php:25 src/Models/ForgotPasswordForm.php:19
+#, php-format
+msgid "O email precisa ter no máximo %s caractéres!"
+msgstr "O email precisa ter no máximo %s caractéres!"
+
+#: src/Models/ContactForm.php:28
+msgid "O assunto é obrigatório!"
+msgstr "O assunto é obrigatório!"
+
+#: src/Models/ContactForm.php:29
+#, php-format
+msgid "O assunto precisa ter no máximo %s caractéres!"
+msgstr "O assunto precisa ter no máximo %s caractéres!"
+
+#: src/Models/ContactForm.php:32
+msgid "O corpo da mensagem é obrigatório!"
+msgstr "O corpo da mensagem é obrigatório!"
+
+#: src/Models/ContactForm.php:33
+#, php-format
+msgid "A mensagem precisa ter no máximo %s caractéres!"
+msgstr "A mensagem precisa ter no máximo %s caractéres!"
+
+#: src/Models/ForgotPasswordForm.php:31
+msgid "O email não foi encontrado!"
+msgstr "O email não foi encontrado!"
+
+#: src/Models/ForgotPasswordForm.php:35
+msgid ""
+"Uma requisição já foi enviada para este email! Espere 1 hora para poder "
+"enviar outra."
+msgstr ""
+"Uma requisição já foi enviada para este email! Espere 1 hora para poder "
+"enviar outra."
+
+#: src/Models/Game.php:87
+msgid "Você não pode excluir um jogo vinculado à um campeonato!"
+msgstr "Você não pode excluir um jogo vinculado à um campeonato!"
+
+#: src/Models/LoginForm.php:21 src/Models/ResetPasswordForm.php:17
+#: src/Models/User.php:66 src/Models/UserForm.php:37
+msgid "A senha é obrigatória!"
+msgstr "A senha é obrigatória!"
+
+#: src/Models/LoginForm.php:33
+msgid "Este email não foi encontrado!"
+msgstr "Este email não foi encontrado!"
+
+#: src/Models/LoginForm.php:38
+msgid "A senha está incorreta!"
+msgstr "A senha está incorreta!"
+
+#: src/Models/ResetPasswordForm.php:18 src/Models/User.php:67
+#: src/Models/UserForm.php:38
+#, php-format
+msgid "A senha deve conter no mínimo %s caractéres!"
+msgstr "A senha deve conter no mínimo %s caractéres!"
+
+#: src/Models/ResetPasswordForm.php:21 src/Models/UserForm.php:41
+msgid "A confirmação de senha é obrigatória!"
+msgstr "A confirmação de senha é obrigatória!"
+
+#: src/Models/ResetPasswordForm.php:22 src/Models/UserForm.php:42
+msgid "As senhas não correspondem!"
+msgstr "As senhas não correspondem!"
+
+#: src/Models/User.php:54 src/Models/UserForm.php:22
+msgid "O tipo de usuário é obrigatório!"
+msgstr "O tipo de usuário é obrigatório!"
+
+#: src/Models/User.php:63 src/Models/UserForm.php:31
+#, php-format
+msgid "O email deve conter no máximo %s caractéres!"
+msgstr "O email deve conter no máximo %s caractéres!"
+
+#: src/Models/User.php:70
+msgid "O apelido é obrigatório!"
+msgstr "O apelido é obrigatório!"
+
+#: src/Models/User.php:71
+#, php-format
+msgid "O apelido deve conter no máximo %s caractéres!"
+msgstr "O apelido deve conter no máximo %s caractéres!"
+
+#: src/Models/User.php:77 src/Models/UserForm.php:50
+msgid "O email informado já está em uso! Tente outro."
+msgstr "O email informado já está em uso! Tente outro."
+
+#: src/Models/User.php:83
+msgid "O apelido informado já está em uso! Tente outro."
+msgstr "O apelido informado já está em uso! Tente outro."
+
+#: src/Models/User.php:112
+msgid ""
+"Vai por mim, isso vai dar ruim! Você não pode excluir o administrador do "
+"sistema."
+msgstr ""
+"Vai por mim, isso vai dar ruim! Você não pode excluir o administrador do "
+"sistema."
+
+#: src/Models/User.php:115
+msgid "Você não pode excluir um usuário com dados armazenados!"
+msgstr "Você não pode excluir um usuário com dados armazenados!"
+
+#: src/Models/UserMeta.php:47
+msgid "A linguagem é obrigatória!"
+msgstr "A linguagem é obrigatória!"
+
+#: src/Models/UserMeta.php:51
+msgid "A data da última alteração de senha é obrigatória!"
+msgstr "A data da última alteração de senha é obrigatória!"
+
+#: src/Models/UserMeta.php:53
+msgid ""
+"A data da última alteração de senha deve seguir o padrão dd/mm/aaaa hh:mm:ss!"
+msgstr ""
+"A data da última alteração de senha deve seguir o padrão dd/mm/aaaa hh:mm:ss!"
+
+#: src/Models/UserType.php:35
+msgid "O nome no singular é obrigatório!"
+msgstr "O nome no singular é obrigatório!"
+
+#: src/Models/UserType.php:36
+#, php-format
+msgid "O nome no singular deve conter no máximo %s caractéres!"
+msgstr "O nome no singular deve conter no máximo %s caractéres!"
+
+#: src/Models/UserType.php:39
+msgid "O nome no plural é obrigatório!"
+msgstr "O nome no plural é obrigatório!"
+
+#: src/Models/UserType.php:40
+#, php-format
+msgid "O nome no plural deve conter no máximo %s caractéres!"
+msgstr "O nome no plural deve conter no máximo %s caractéres!"
+
+#: src/Models/UserType.php:67
+msgid "Você não pode excluir um tipo de usuário vinculado à um usuário!"
+msgstr "Você não pode excluir um tipo de usuário vinculado à um usuário!"
+
+#: src/Utils/ErrorMessages.php:10
+msgid "A requisição não pôde ser processada devido a algum erro do cliente!"
+msgstr "A requisição não pôde ser processada devido a algum erro do cliente!"
+
+#: src/Utils/ErrorMessages.php:12
+msgid "Você não tem permissão de acessar!"
+msgstr "Você não tem permissão de acessar!"
+
+#: src/Utils/ErrorMessages.php:14
+msgid "A página ou recurso não pôde ser encontrado!"
+msgstr "A página ou recurso não pôde ser encontrado!"
+
+#: src/Utils/ErrorMessages.php:16
+msgid "O método utilizado não é permitido para essa URL!"
+msgstr "O método utilizado não é permitido para essa URL!"
+
+#: src/Utils/ErrorMessages.php:18
+msgid "O seu pedido foi recebido pelo servidor, mas não pôde ser processado!"
+msgstr "O seu pedido foi recebido pelo servidor, mas não pôde ser processado!"
+
+#: src/Utils/ErrorMessages.php:20
+msgid "Lamentamos, mas houve algum erro interno de servidor!"
+msgstr "Lamentamos, mas houve algum erro interno de servidor!"
+
+#: src/Utils/ErrorMessages.php:23 src/Utils/ErrorMessages.php:28
+msgid "Lamentamos, mas houve algum erro na requisição!"
+msgstr "Lamentamos, mas houve algum erro na requisição!"
+
+#: src/Utils/ErrorMessages.php:33
+msgid "Erros de validação! Verifique os campos."
+msgstr "Erros de validação! Verifique os campos."
+
+#: src/Utils/ErrorMessages.php:38
+msgid "Lamentamos, mas o excel não pôde ser gerado!"
+msgstr "Lamentamos, mas o excel não pôde ser gerado!"
+
+#: src/Utils/ErrorMessages.php:43
+msgid "Lamentamos, mas o PDF não pôde ser gerado!"
+msgstr "Lamentamos, mas o PDF não pôde ser gerado!"
+
+#: src/Utils/ErrorMessages.php:48
+msgid "Lamentamos, mas houveram erros na importação do CSV!"
+msgstr "Lamentamos, mas houveram erros na importação do CSV!"
+
+#~ msgid "Inglês"
+#~ msgstr "Inglês"
+
+#~ msgid "Espanhol"
+#~ msgstr "Espanhol"
+
+#~ msgid "O ID da rede social é obrigatório!"
+#~ msgstr "O ID da rede social é obrigatório!"
+
+#~ msgid "O nome da rede social é obrigatório!"
+#~ msgstr "O nome da rede social é obrigatório!"
+
+#~ msgid "O nome da rede social é inválido!"
+#~ msgstr "O nome da rede social é inválido!"
+
+#~ msgid "Escolher Imagem"
+#~ msgstr "Escolher Imagem"
+
+#~ msgid "Remover Imagem"
+#~ msgstr "Remover Imagem"
+
+#~ msgid "Upload de Arquivos"
+#~ msgstr "Upload de Arquivos"
+
+#, php-format
+#~ msgid "Painel %s"
+#~ msgstr "Painel %s"
+
+#~ msgid "Digite um apelido."
+#~ msgstr "Digite um apelido."
+
+#, php-format
+#~ msgid "Principal | %s"
+#~ msgstr "Principal | %s"
+
+#, php-format
+#~ msgid "O nome precisa ter %s caractéres ou menos!"
+#~ msgstr "O nome precisa ter %s caractéres ou menos!"
+
+#, php-format
+#~ msgid "O email precisa ter %s caractéres ou menos!"
+#~ msgstr "O email precisa ter %s caractéres ou menos!"
+
+#, php-format
+#~ msgid "O assunto precisa ter %s caractéres ou menos!"
+#~ msgstr "O assunto precisa ter %s caractéres ou menos!"
+
+#, php-format
+#~ msgid "A mensagem precisa ter %s caractéres ou menos!"
+#~ msgstr "A mensagem precisa ter %s caractéres ou menos!"
+
+#, fuzzy
+#~| msgid "Erros de validação! Verifique os campos."
+#~ msgid "Erros de validação! Verifique os campos!"
+#~ msgstr "Erros de validação! Verifique os campos."
+
+#~ msgid "Módulo GTG"
+#~ msgstr "Módulo GTG"
+
+#~ msgid "Esse código é inválido!"
+#~ msgstr "Esse código é inválido!"
+
+#~ msgid "O teste do ReCaptcha falhou! Tente novamente."
+#~ msgstr "O teste do ReCaptcha falhou! Tente novamente."
+
+#~ msgid "Nenhum dado foi adicionado para a geração do excel!"
+#~ msgstr "Nenhum dado foi adicionado para a geração do excel!"
+
+#~ msgid "O HTML é necessário!"
+#~ msgstr "O HTML é necessário!"
+
+#~ msgid ""
+#~ "Ocorreu um erro inesperado enquanto você executava essa ação! Informe ao "
+#~ "administrador."
+#~ msgstr ""
+#~ "Ocorreu um erro inesperado enquanto você executava essa ação! Informe ao "
+#~ "administrador."
+
+#~ msgid "Buscar"
+#~ msgstr "Buscar"
+
+#~ msgid "Erros de validação! Verifique os dados!"
+#~ msgstr "Erros de validação! Verifique os dados!"
+
+#~ msgid "Digite seu Email"
+#~ msgstr "Digite seu Email"
+
+#~ msgid "Senha é obrigatória!"
+#~ msgstr "Senha é obrigatória!"
+
+#~ msgid "O Estilo é inválido!"
+#~ msgstr "O Estilo é inválido!"
+
+#~ msgid "Este Email é inválido!"
+#~ msgstr "Este Email é inválido!"
+
+#~ msgid "Este Email já está em uso! Tente outro."
+#~ msgstr "Este Email já está em uso! Tente outro."
+
+#~ msgid "Você precisa completar o teste do ReCaptcha!"
+#~ msgstr "Você precisa completar o teste do ReCaptcha!"
+
+#~ msgid "Versão:"
+#~ msgstr "Versão:"
