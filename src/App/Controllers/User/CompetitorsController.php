@@ -165,11 +165,7 @@ class CompetitorsController extends TemplateController
                                 <div class=\"widget-content-left mr-3\">
                                     <div class=\"widget-content-left\">
                                         <img width=\"40\" height=\"40\" class=\"rounded-circle\" 
-                                            src=\"" . (
-                                                $competitor->getImageURL() 
-                                                ? $competitor->getImageURL() 
-                                                : "https://www.gravatar.com/avatar/"
-                                            ) . "\">
+                                            src=\"{$competitor->getImageURL()}\">
                                     </div>
                                 </div>
                                 <div class=\"widget-content-left\">

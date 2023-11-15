@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2023-11-15 01:42-0300\n"
-"PO-Revision-Date: 2023-11-15 01:47-0300\n"
+"POT-Creation-Date: 2023-11-15 10:20-0300\n"
+"PO-Revision-Date: 2023-11-15 10:20-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -47,7 +47,7 @@ msgstr "Sessão expirada, faça login"
 #: resources/views/_components/expired-session.php:12
 #: resources/views/admin/users/save.php:41
 #: resources/views/auth/reset-password.php:26 resources/views/user/edit.php:61
-#: src/App/Controllers/Admin/UsersController.php:245
+#: src/App/Controllers/Admin/UsersController.php:244
 msgid "Email"
 msgstr "Email"
 
@@ -357,9 +357,9 @@ msgstr "Informações da Conta"
 #: resources/views/user/competitors/_components/save-form.php:3
 #: resources/views/user/edit.php:30
 #: resources/views/user/games/_components/save-form.php:3
-#: src/App/Controllers/Admin/UsersController.php:244
+#: src/App/Controllers/Admin/UsersController.php:243
 #: src/App/Controllers/User/ChampionshipsController.php:243
-#: src/App/Controllers/User/CompetitorsController.php:214
+#: src/App/Controllers/User/CompetitorsController.php:210
 #: src/App/Controllers/User/GamesController.php:153
 msgid "Nome"
 msgstr "Nome"
@@ -863,36 +863,36 @@ msgstr "Não foi possível excluir o usuário!"
 msgid "O usuário \"%s\" foi excluído com sucesso."
 msgstr "O usuário \"%s\" foi excluído com sucesso."
 
-#: src/App/Controllers/Admin/UsersController.php:217
-#: src/App/Controllers/Admin/UsersController.php:220
-#: src/App/Controllers/Admin/UsersController.php:242
+#: src/App/Controllers/Admin/UsersController.php:216
+#: src/App/Controllers/Admin/UsersController.php:219
+#: src/App/Controllers/Admin/UsersController.php:241
 #: src/App/Controllers/User/ChampionshipsController.php:194
 #: src/App/Controllers/User/ChampionshipsController.php:197
 #: src/App/Controllers/User/ChampionshipsController.php:242
-#: src/App/Controllers/User/CompetitorsController.php:187
-#: src/App/Controllers/User/CompetitorsController.php:190
-#: src/App/Controllers/User/CompetitorsController.php:213
+#: src/App/Controllers/User/CompetitorsController.php:183
+#: src/App/Controllers/User/CompetitorsController.php:186
+#: src/App/Controllers/User/CompetitorsController.php:209
 #: src/App/Controllers/User/GamesController.php:126
 #: src/App/Controllers/User/GamesController.php:129
 #: src/App/Controllers/User/GamesController.php:152
 msgid "Ações"
 msgstr "Ações"
 
-#: src/App/Controllers/Admin/UsersController.php:223
+#: src/App/Controllers/Admin/UsersController.php:222
 msgid "Editar Usuário"
 msgstr "Editar Usuário"
 
-#: src/App/Controllers/Admin/UsersController.php:229
+#: src/App/Controllers/Admin/UsersController.php:228
 msgid "Excluir Usuário"
 msgstr "Excluir Usuário"
 
-#: src/App/Controllers/Admin/UsersController.php:243
+#: src/App/Controllers/Admin/UsersController.php:242
 msgid "ID"
 msgstr "ID"
 
-#: src/App/Controllers/Admin/UsersController.php:246
+#: src/App/Controllers/Admin/UsersController.php:245
 #: src/App/Controllers/User/ChampionshipsController.php:246
-#: src/App/Controllers/User/CompetitorsController.php:215
+#: src/App/Controllers/User/CompetitorsController.php:211
 #: src/App/Controllers/User/GamesController.php:154
 msgid "Criado em"
 msgstr "Criado em"
@@ -1000,7 +1000,7 @@ msgid "Status"
 msgstr "Status"
 
 #: src/App/Controllers/User/ChampionshipsController.php:247
-#: src/App/Controllers/User/CompetitorsController.php:216
+#: src/App/Controllers/User/CompetitorsController.php:212
 #: src/App/Controllers/User/GamesController.php:155
 msgid "Modificado em"
 msgstr "Modificado em"
@@ -1065,11 +1065,11 @@ msgstr "Não foi possível excluir o competidor!"
 msgid "O competidor \"%s\" foi excluído com sucesso."
 msgstr "O competidor \"%s\" foi excluído com sucesso."
 
-#: src/App/Controllers/User/CompetitorsController.php:194
+#: src/App/Controllers/User/CompetitorsController.php:190
 msgid "Editar Competidor"
 msgstr "Editar Competidor"
 
-#: src/App/Controllers/User/CompetitorsController.php:200
+#: src/App/Controllers/User/CompetitorsController.php:196
 msgid "Excluir Competidor"
 msgstr "Excluir Competidor"
 

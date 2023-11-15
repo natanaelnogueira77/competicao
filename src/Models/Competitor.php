@@ -126,6 +126,6 @@ class Competitor extends DBModel
 
     public function getImageURL(): string 
     {
-        return $this->img ? url($this->img) : '';
+        return $this->img ? url($this->img) : 'https://www.gravatar.com/avatar/';
     }
 }

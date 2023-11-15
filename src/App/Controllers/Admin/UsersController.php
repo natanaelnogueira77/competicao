@@ -195,8 +195,7 @@ class UsersController extends TemplateController
                                 <div class=\"widget-content-left mr-3\">
                                     <div class=\"widget-content-left\">
                                         <img width=\"40\" class=\"rounded-circle\" 
-                                            src=\"https://www.gravatar.com/avatar/"
-                                            . md5(strtolower(trim($user->email))) . "\">
+                                            src=\"{$user->getPhoto()}\">
                                     </div>
                                 </div>
                                 <div class=\"widget-content-left\">
